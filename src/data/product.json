@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "category": 1001,
+    "name": "iPhone 11",
+    "price": 705,
+    "tax": 5,
+    "image": "https://rovercrm.net/public/uploads/items/e6a2659da1bf086cf5daa79a98fab48a_1_apple-iphone-11-1-500x500.jpg"
+  },
+  {
+    "id": 2,
+    "category": 1001,
+    "name": "Apple Watch SE",
+    "price": 700,
+    "tax": 4,
+    "image": "https://rovercrm.net/public/uploads/items/bde66b8ef0bfe6079512f5ab72728462_1_apple_watch_series_4.jpg"
+  },
+  {
+    "id": 3,
+    "category": 1002,
+    "name": "Coffee Maker",
+    "price": 55,
+    "tax": 2,
+    "image": "https://rovercrm.net/public/uploads/items/5af4234ffc3fce78d3fc291b2d3037ff_1_103921.jpg"
+  },
+  {
+    "id": 4,
+    "category": 1002,
+    "name": "Blender",
+    "price": 52,
+    "tax": 2,
+    "image": "https://rovercrm.net/public/uploads/items/a121d01996be8872e6a474d580697db4_1_81n-9sdsr6l.jpg"
+  },
+  {
+    "id": 5,
+    "category": 1005,
+    "name": "Oats",
+    "price": 5,
+    "tax": 1,
+    "image": "https://rovercrm.net/public/uploads/items/4bfb89b115e2f85165f5f1fb969e9b85_1_ufd110d4da3f148d5a336d7895d0e5ed9k.jpg"
+  },
+  {
+    "id": 6,
+    "category": 1005,
+    "name": "Corn Flakes",
+    "price": 5,
+    "tax": 1,
+    "image": "https://rovercrm.net/public/uploads/items/69794a32093232e88029158b651fd61b_1_kelloggs-corn-flakes-real-mango-300-gm-1014139.jpg"
+  },
+  {
+    "id": 7,
+    "category": 1003,
+    "name": "Mens Shirt",
+    "price": 15,
+    "tax": 2,
+    "image": "https://rovercrm.net/public/uploads/items/42b911030cafa181dc4199b7281e6d27_1_menshirtjpg.jpg"
+  },
+  {
+    "id": 8,
+    "category": 1003,
+    "name": "T Shirt",
+    "price": 5,
+    "tax": 2,
+    "image": "https://rovercrm.net/public/uploads/items/8510ea9e4a21dc38b54b2f9b42bb9daf_1_tshirtjpg.jpg"
+  },
+  {
+    "id": 9,
+    "category": 1007,
+    "name": "Coke",
+    "price": 1,
+    "tax": 1,
+    "image": "https://rovercrm.net/public/uploads/items/b2d35c8b72d5f0a294bd346acfcc04a8_1_cokepng.png"
+  },
+  {
+    "id": 10,
+    "category": 1004,
+    "name": "Summer thin loose",
+    "price": 44,
+    "tax": 5,
+    "image": "https://demo.martvill.techvill.net/public/uploads/sizes/medium/20221116/9a0f7b551a14b40abbb4d6c330feedd9.webp"
+  },
+  {
+    "id": 11,
+    "category": 1006,
+    "name": "Slouchy jeans",
+    "price": 40,
+    "tax": 5,
+    "image": "https://demo.martvill.techvill.net/public/uploads/sizes/medium/20221120/abc930448a9f08de458b70e58e9f894e.webp"
+  },
+  {
+    "id": 12,
+    "category": 1008,
+    "name": "Cotton Coat",
+    "price": 76,
+    "tax": 5,
+    "image": "https://demo.martvill.techvill.net/public/uploads/sizes/medium/20221116/ff019ee0f768d6f4d8c6cbda5e40975a.webp"
+  },
+  {
+    "id": 13,
+    "category": 1001,
+    "name": "iPhone 11 Pro",
+    "price": 999,
+    "tax": 10,
+    "image": "https://rovercrm.net/public/uploads/items/4ca944fa029717f1df765e9aa9f22091_1_iphone-11-pro-select-2019-family.jpg"
+  },
+  {
+    "id": 14,
+    "category": 1003,
+    "name": "Men Wallet",
+    "price": 8,
+    "tax": 2,
+    "image": "https://rovercrm.net/public/uploads/items/3a41bbee5f3e69e1c95fd4a149fe143a_1_moneybagjpg.jpg"
+  },
+  {
+    "id": 15,
+    "category": 1002,
+    "name": "Havit Alarm Clock",
+    "price": 30,
+    "tax": 4,
+    "image": "https://rovercrm.net/public/uploads/items/5cec338c8dfd52a2f06f4a9436a5ffe4_1_havit.jpg"
+  }
+]

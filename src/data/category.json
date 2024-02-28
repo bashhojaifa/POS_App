@@ -1,0 +1,39 @@
+[
+  {
+    "id": 0,
+    "name": "All Categories"
+  },
+  {
+    "id": 1001,
+    "name": "Electronics"
+  },
+  {
+    "id": 1002,
+    "name": "Home & Lifestyle"
+  },
+  {
+    "id": 1003,
+    "name": "Men Fashion"
+  },
+  {
+    "id": 1004,
+    "name": "Women Fashion"
+  },
+  {
+    "id": 1005,
+    "name": "Grocery"
+  },
+  {
+    "id": 1006,
+    "name": "Cloths"
+  },
+  {
+    "id": 1007,
+    "name": "Food"
+  },
+
+  {
+    "id": 1008,
+    "name": "Babies & Toys"
+  }
+]

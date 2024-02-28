@@ -1,0 +1,123 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,500;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,500;1,700;1,800;1,900&display=swap");
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+* {
+  transition: all 200ms linear;
+}
+
+/* ======================= BUTTON STYLE OVERWRITE ======================= */
+
+/* TRANSPARENT BUTTON OVERWRITE */
+.btn-transparent {
+  padding: 0.3rem 1rem;
+}
+.btn-transparent:hover {
+  background-color: rgba(128, 128, 128, 0.1);
+  border-color: transparent;
+}
+
+/* PRIMARY BUTTON OVERWRITE */
+.btn-primary {
+  background-color: #d7e3f7;
+  color: #3674d9;
+  border-color: transparent;
+  font-weight: 500;
+  font-size: 1.1rem;
+  padding: 0.3rem 1rem;
+}
+.btn-primary:hover {
+  background-color: #3674d9;
+  color: #d7e3f7;
+  border-color: transparent;
+}
+
+.bg-primary {
+  background-color: #d7e3f7 !important;
+}
+.bg-primary-fill {
+  background-color: #3674d9 !important;
+  color: #d7e3f7 !important;
+}
+
+/* SECONDARY BUTTON OVERWRITE */
+.btn-secondary {
+  background-color: #e7e9f6;
+  color: #5c6ac4;
+  border-color: transparent;
+  font-weight: 500;
+  font-size: 1.1rem;
+  padding: 0.3rem 1rem;
+}
+.text-secondary {
+  color: #5c6ac4 !important;
+}
+.bg-secondary {
+  background-color: #e7e9f6 !important;
+}
+
+.text-secondary {
+  color: #5c6ac4 !important;
+}
+
+.btn-secondary:hover {
+  background-color: #5c6ac4;
+  color: #e7e9f6;
+  border-color: transparent;
+}
+
+/* ERROR BUTTON OVERWRITE */
+.btn-error {
+  background-color: #f8d7da;
+  color: #842029;
+  border-color: transparent;
+  font-weight: 500;
+  font-size: 1.1rem;
+  padding: 0.3rem 1rem;
+}
+.text-error {
+  color: #842029 !important;
+}
+.bg-error {
+  background-color: #f8d7da !important;
+}
+
+/* DARK BUTTON */
+.btn-dark {
+  background-color: #343a4096;
+  color: #f8f9fa;
+  border-color: transparent;
+  font-weight: 500;
+  font-size: 1.1rem;
+  padding: 0.3rem 1rem;
+}
+.text-dark {
+  color: #343a40bd !important;
+}
+.bg-error {
+  background-color: #f8d7da !important;
+}
+
+.productImage {
+  height: 140px;
+  width: 100%;
+  display: block;
+  border-radius: 5px;
+  object-fit: contain;
+}
+
+/* ======================= RESPONSIVE ======================= */
+
+@media (max-width: 768px) {
+  .offcanvas {
+    width: 80% !important;
+  }
+}
+
+@media (min-width: 768px) {
+  .w-md-25 {
+    width: 25% !important;
+  }
+}
